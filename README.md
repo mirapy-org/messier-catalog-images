@@ -1,2 +1,2 @@
-# messier-catalog-galaxies
-Some images of Messier objects from NASA
+# Messier Catalog Images
+This repository contains some images of galaxies and nebulae in Messier catalog. You can download them from nasa.gov [website](https://www.nasa.gov/content/goddard/hubble-s-messier-catalog). These images were used in 'Image Reconstruction using MiraPy' project. You can download MiraPy from the Github [repository](https://github.com/mirapy-org/MiraPy) and you can access tutorial from [here](https://github.com/mirapy-org/tutorials).
